@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ranjith+Kumar;Aspiring+Software+Developer;Interested+in+AI+%26+Web+Development;Love+Building+Real-World+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ranjith+Kumar;Aspiring+AI+Engineer;Interested+in+AI+%26+Web+Development;Love+Building+Real-World+Projects+🚀" />
 </p>
 
 <h1 align="center">Ranjith Kumar</h1>
